@@ -9,7 +9,7 @@ author_profile: true
 
 ## World trade Institute, University of Bern
 
-*Microeconomics*, at the MILE (Master of Advanced Studies in International Law and Economics) and 
+*Microeconomics* at the MILE (Master of Advanced Studies in International Law and Economics) and 
 TRIAL (Master of Laws -LL.M.- in International Trade and Investment Law) programs at the WTI.
 Associate professor, Fall 2021 (10 hours) and Fall 2022 (18 hours).
 
