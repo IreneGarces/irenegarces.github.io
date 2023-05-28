@@ -34,6 +34,7 @@ on the country- and sector-level. We construct well-established descriptive indi
 
 ## [Global value chains as determinants of non-tariff measures]
 *(with Achim Vogt)*
+
 The organization of modern production into complex, cross-border networks raises the question of whether countries’ value chain linkages determine their trade-related
 policies. In this paper, we show that increases in domestic value added into foreign final goods leads to decreases in regulatory stringency measured as tariffs but
 also as technical nontariff measures. Trade-network structures incentivize regulatory harmonization to avoid harming domestic producers.
@@ -41,8 +42,7 @@ also as technical nontariff measures. Trade-network structures incentivize regul
 ## [PTA determinants: The effect of regulatory differences in international trade]
 *(with Joseph Francois, Achim Vogt, & Selina Hauser)*
 
-Regulatory heterogeneity is perceived as the most important trade barrier today. In this paper we analyze how regulatory distance regarding non-tariff measures is a
-determinant to sign a preferential trade agreement (PTA) and its level of depth integration (shallow, middle, or deep) regarding the number of provisions included. 
+Regulatory heterogeneity is perceived as the most important trade barrier today. In this paper we analyze how regulatory distance regarding non-tariff measures is a determinant to sign a preferential trade agreement (PTA) and its level of depth integration (shallow, middle, or deep) regarding the number of provisions included. 
 We find that higher regulatory heterogeneity among a country pair increases the likelihood of singing shallow, middle, or deep preferential trade agreements to
 overcome the different regulatory systems. However, the opposite effect is found for deeper ones as higher levels of harmonization are harder to achieve when both
 countries depart from different regulatory systems.
