@@ -40,7 +40,7 @@ policies. In this paper, we show that increases in domestic value added into for
 also as technical nontariff measures. Trade-network structures incentivize regulatory harmonization to avoid harming domestic producers.
 
 ## [PTA determinants: The effect of regulatory differences in international trade]
-*(with Joseph Francois, Achim Vogt, & Selina Hauser)*
+*(with Prof. Dr. Joseph Francois, Achim Vogt, & Selina Hauser)*
 
 Regulatory heterogeneity is perceived as the most important trade barrier today. In this paper we analyze how regulatory distance regarding non-tariff measures is a determinant to sign a preferential trade agreement (PTA) and its level of depth integration (shallow, middle, or deep) regarding the number of provisions included. 
 We find that higher regulatory heterogeneity among a country pair increases the likelihood of singing shallow, middle, or deep preferential trade agreements to
@@ -48,7 +48,7 @@ overcome the different regulatory systems. However, the opposite effect is found
 countries depart from different regulatory systems.
 
 ## [Quantifying the costs of European disintegration]
-*(with Joseph Francois & Octavio Fernández Amador)* 
+*(with Prof. Dr. Joseph Francois & Dr. Octavio Fernández Amador)* 
 
 The past fifty years have witnessed an upsurge in trade integration which has crystallized in the multiplication in the number of economic integration agreements. 
 However, in the last decade fears of de-globalization and disintegration of current international structures have spurred across the world and particularly impacted 
