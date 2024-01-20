@@ -14,6 +14,16 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+## [Publications] 
+
+## [Global value chains as determinants of non-tariff measures](../files/Global value chain integration and non-tariff measures.pdf)
+*(with Achim Vogt)*
+
+The organization of modern production into complex, cross-border networks raises the question of whether countries’ value chain linkages determine their trade-related
+policies. In this paper, we show that increases in domestic value-added into foreign final goods lead to decreases in regulatory stringency measured as tariffs but
+also as technical nontariff measures. Trade-network structures incentivize regulatory harmonization to avoid harming domestic producers.
+
+## [Working papers] 
 ## [Modeling heterogeneous direct and third-country effects of the trade policy network]
 *(with Dr. Octavio Fernández-Amador)* 
 
@@ -32,12 +42,7 @@ heterogeneity with respect to the intensity, coverage, and structure of regulati
 Enabled by detailed product-level regulatory data based on coded reviews of national legislation, we illustrate the different channels of regulatory heterogeneity
 at the country- and sector-level. We construct well-established descriptive indicators and more recently developed measures of regulatory distance to identify patterns of non-tariff measures via principal component analysis, clustering techniques, and association analysis. The findings motivate separate treatment of the different heterogeneity dimensions in  the assessment of non-tariff measures in international trade. Outputs of the analysis are transferred to a database available at different sectoral aggregations that can be used for example in gravity-type analysis.
 
-## [Global value chains as determinants of non-tariff measures]
-*(with Achim Vogt)*
 
-The organization of modern production into complex, cross-border networks raises the question of whether countries’ value chain linkages determine their trade-related
-policies. In this paper, we show that increases in domestic value-added into foreign final goods lead to decreases in regulatory stringency measured as tariffs but
-also as technical nontariff measures. Trade-network structures incentivize regulatory harmonization to avoid harming domestic producers.
 
 ## [PTA determinants: The effect of regulatory differences in international trade]
 *(with Prof. Dr. Joseph Francois, Achim Vogt, & Selina Hauser)*
