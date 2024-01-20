@@ -24,7 +24,8 @@ policies. In this paper, we show that increases in domestic value-added into for
 also as technical nontariff measures. Trade-network structures incentivize regulatory harmonization to avoid harming domestic producers.
 
 ## [Working papers] 
-## [Modeling heterogeneous direct and third-country effects of the trade policy network](../files/Heterogeneous direct and third-country effects_master_20240120.pdf)
+## [Modeling heterogeneous direct and third-country effects of the trade policy network]
+%(../files/Heterogeneous direct and third-country effects_master_20240120.pdf)
 *(with Dr. Octavio Fernández-Amador)* 
 
 This paper presents a structural Melitz-type gravity model with firm heterogeneity featuring heterogeneous trade cost elasticities to estimate the modular 
