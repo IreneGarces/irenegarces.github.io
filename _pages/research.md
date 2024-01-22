@@ -34,10 +34,7 @@ The correct estimation strategy when using approximated multilateral resistances
 and two simulations highlight the quantitative importance of indirect effects. Third-country effects from the network of agreements in place can be economically
 significant. Governments should consider third-country effects when analyzing potential strategic integration scenarios.
 
-## [Market Access Uncertainty and Trade in Services]
-*(with Prof. Dr. Joseph Francois & Peter H. Egger & Miriam Manchin)* 
 
- We develop an analytical/empirical framework bridging the decision under uncertainty and recent gravity-based empirical trade literature. We examine the impact of policy uncertainty on services trade, focusing on binding overhang (the gap between market access commitments and actual applied policy). The government's ability to change policies within this gap yields uncertainty for firms regarding market access. Results point to average services trade costs averaging from 6.66\% (high-income countries) to 8.51\% (low and middle-income countries) and negative average trade volume effects (58.87\%-75.22\%) due to existing binding overhang.  This is comparable to estimates of other regulatory barriers to trade.
 
 ## [Patterns of regulatory differences in international trade: intensity coverage and structure]
 *(with Achim Vogt)* 
