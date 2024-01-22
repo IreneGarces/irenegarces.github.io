@@ -23,9 +23,8 @@ The organization of modern production into complex, cross-border networks raises
 policies. In this paper, we show that increases in domestic value-added into foreign final goods lead to decreases in regulatory stringency measured as tariffs but
 also as technical nontariff measures. Trade-network structures incentivize regulatory harmonization to avoid harming domestic producers.
 
-## [Working papers] 
-## [Modeling heterogeneous direct and third-country effects of the trade policy network]
-%(../files/Heterogeneous direct and third-country effects_master_20240120.pdf)
+Working papers 
+Modeling heterogeneous direct and third-country effects of the trade policy network
 *(with Dr. Octavio Fernández-Amador)* 
 
 This paper presents a structural Melitz-type gravity model with firm heterogeneity featuring heterogeneous trade cost elasticities to estimate the modular 
@@ -34,7 +33,7 @@ The correct estimation strategy when using approximated multilateral resistances
 and two simulations highlight the quantitative importance of indirect effects. Third-country effects from the network of agreements in place can be economically
 significant. Governments should consider third-country effects when analyzing potential strategic integration scenarios.
 
-## [Market Access Uncertainty and Trade in Services]
+Market Access Uncertainty and Trade in Services
 *(with Prof. Dr. Joseph Francois & Peter H. Egger & Miriam Manchin)* 
 
  We develop an analytical/empirical framework bridging the decision under uncertainty and recent gravity-based empirical trade literature. We examine the impact of policy uncertainty on services trade, focusing on binding overhang (the gap between market access commitments and actual applied policy). The government's ability to change policies within this gap yields uncertainty for firms regarding market access. Results point to average services trade costs averaging from 6.66\% (high-income countries) to 8.51\% (low and middle-income countries) and negative average trade volume effects (58.87\%-75.22\%) due to existing binding overhang.  This is comparable to estimates of other regulatory barriers to trade
