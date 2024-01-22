@@ -23,8 +23,9 @@ The organization of modern production into complex, cross-border networks raises
 policies. In this paper, we show that increases in domestic value-added into foreign final goods lead to decreases in regulatory stringency measured as tariffs but
 also as technical nontariff measures. Trade-network structures incentivize regulatory harmonization to avoid harming domestic producers.
 
-##[Working papers] 
-##[Modeling heterogeneous direct and third-country effects of the trade policy network]
+## [Working papers] 
+
+## [Modeling heterogeneous direct and third-country effects of the trade policy network]
 *(with Dr. Octavio Fernández-Amador)* 
 
 This paper presents a structural Melitz-type gravity model with firm heterogeneity featuring heterogeneous trade cost elasticities to estimate the modular 
