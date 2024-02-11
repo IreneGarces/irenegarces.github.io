@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in Economics at the World Trade Institute and am on the 2022/2023 Job Market.
+I am a Ph.D. candidate in Economics at the World Trade Institute and am in the 2023/2024 Job Market.
 
-My research interest are focused around International trade and applied econometrics.
+My research interests are focused on International trade and applied econometrics.
 
 I am interested in understanding the heterogeneous effects of trade agreements and particular trade policy instruments such as non-tariff measures.
 
