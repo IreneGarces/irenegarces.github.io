@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Irene Garcés Iriarte"
+title                    : "Irene Garcés"
 title_separator          : "-"
-name                     : &name "Irene Garcés Iriarte"
+name                     : &name "Irene Garcés"
 description              : &description "personal description"
 url                      : "https://irenegarces.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io" I do not know if it should be with \ at the end "https:/irenegarces.github.io/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Irene Garcés Iriarte"
+  name             : "Irene Garcés"
   avatar           : "profile.jpg"
-  bio              : "Ph.D. Candidate in Economics"
+  bio              : "Dr. in Economics"
   location         : "World Trade Institute, Switzerland"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
