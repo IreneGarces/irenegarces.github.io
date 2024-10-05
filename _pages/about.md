@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher in economics at Centro de Investigación y Tecnología Agroalimentaria (CITA). 
+I am a postdoctoral researcher in economics at the Centre for Agro-Food Research and Technology (CITA. 
 
 My research interests are focused on International trade and applied econometrics.
 
