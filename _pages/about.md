@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher in economics at the Centre for Agro-Food Research and Technology (CITA) under an EU-funded project [Brightspace](https://brightspace-project.eu/). Awarded a Doctorate in Economics with the highest honors, summa cum laude, from the University of Bern (May 2024). 
+Welcome to my website! I am a postdoctoral researcher in economics at the Centre for Agro-Food Research and Technology (CITA) under an EU-funded project [Brightspace](https://brightspace-project.eu/). Awarded a Doctorate in Economics with the highest honors, summa cum laude, from the University of Bern (May 2024) under the supervision of [Joseph Francois](https://www.wti.org/institute/people/432/francois-joseph/) and [Octavio Fernández-Amador] (https://www.wti.org/institute/people/429/fernandez-amador-octavio/). 
 
 Broadly, my research focuses on the heterogeneous impacts of trade agreements and specific trade policy tools, particularly non-tariff measures.
 
