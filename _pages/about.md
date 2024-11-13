@@ -8,8 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher in economics at the Centre for Agro-Food Research and Technology (CITA). 
+I am a postdoctoral researcher in economics at the Centre for Agro-Food Research and Technology (CITA) under an EU-funded project (Brightspace). Awarded a Doctorate in Economics with the highest honors, summa cum laude, from the University of Bern (May 2024). 
 
-Awarded a Doctorate in Economics with the highest honors, summa cum laude, from the University of Bern (May 2024). My research focuses on the diverse impacts of trade agreements and specific trade policy tools, particularly non-tariff measures.
+Broadly, my research focuses on the heterogeneous impacts of trade agreements and specific trade policy tools, particularly non-tariff measures.
 
-In my Job Market Paper, we derive from a theoretical Melitz-type model with firm heterogeneity featuring heterogeneous trade cost elasticities a structural gravity model to estimate modular effects of trade agreements. We provide a structural underpinning for heterogeneous third-country—trade diversion and reverse diversion—effects. Third-country effects from the network of agreements in place can be economically significant and governments should consider them when analyzing potential strategic integration scenarios.
+Specifically, I am interested in how international trade plays a role in a globalised world. How do trade agreements affect members and third-country—trade diversion and reverse diversion effects? How are the gains and losses distributed according to the level of development and sectoral variability? What is the role of global value chains and non-tariff measures in shaping the international sphere? 
+
+Please reach out in case you have any questions or want to talk about research: irene.garces@ca.fr.
+
