@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Irene Garcés"
   avatar           : "profile.jpg"
-  bio              : "Dr. in Economics"
-  location         : "World Trade Institute, Switzerland"
+  bio              : "Postdoctoral Researcher"
+  location         : "CITA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :  #"http://yourfullgooglescholarurl.com"
-  email            : irene.garces@wti.org
+  email            :   igarces@cita-aragon.es
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
