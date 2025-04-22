@@ -32,7 +32,7 @@ heterogeneity with respect to the intensity, coverage, and structure of regulati
 Enabled by detailed product-level regulatory data based on coded reviews of national legislation, we illustrate the different channels of regulatory heterogeneity
 at the country- and sector-level. We construct well-established descriptive indicators and more recently developed measures of regulatory distance to identify patterns of non-tariff measures via principal component analysis, clustering techniques, and association analysis. The findings motivate separate treatment of the different heterogeneity dimensions in  the assessment of non-tariff measures in international trade. Outputs of the analysis are transferred to a database available at different sectoral aggregations that can be used for example in gravity-type analysis.
 
-## [Modeling heterogeneous direct and third-country effects of the trade policy network]  https://onlinelibrary.wiley.com/doi/abs/10.1111/roie.12797
+## Modeling heterogeneous direct and third-country effects of the trade policy network (https://onlinelibrary.wiley.com/doi/abs/10.1111/roie.12797
 *(with Dr. Octavio Fernández-Amador)* 
 
 This paper presents a structural Melitz-type gravity model with firm heterogeneity featuring heterogeneous trade cost elasticities to estimate the modular 
