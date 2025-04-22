@@ -43,15 +43,15 @@ significant. Governments should consider third-country effects when analyzing po
 
 This paper received the away for the best research paper presented by a young scholar at the 24th conference on international economics held at the university of Alcalá (Spain).
 
-## [Working papers] 
+## Working papers 
 
-## [Market Access Uncertainty and Trade in Services]
+## Market Access Uncertainty and Trade in Services
 *(with Prof. Dr. Joseph Francois & Peter H. Egger & Miriam Manchin)*
 
  We develop an analytical/empirical framework bridging the decision under uncertainty and recent gravity-based empirical trade literature. We examine the impact of policy uncertainty on services trade, focusing on binding overhang (the gap between market access commitments and actual applied policy). The government's ability to change policies within this gap yields uncertainty for firms regarding market access. Results point to average services trade costs averaging from 6.66% (high-income countries) to 8.51% (low and middle-income countries) and negative average trade volume effects (58.87%-75.22%) due to existing binding overhang.  This is comparable to estimates of other regulatory barriers to trade.
 
 
-## [Trade cost estimates of the EU single market]
+## Trade cost estimates of the EU single market
 *(with Prof. Dr. Joseph Francois)* 
 
 The past fifty years have witnessed an upsurge in trade integration which has crystallized in the multiplication in the number of economic integration agreements. 
