@@ -14,5 +14,5 @@ Broadly, my research focuses on the heterogeneous impacts of trade agreements an
 
 Specifically, I am interested in how international trade plays a role in a globalised world. How do trade agreements affect members and third-country—trade diversion and reverse diversion effects? How are the gains and losses distributed according to the level of development and sectoral variability? What is the role of global value chains and non-tariff measures in shaping the international sphere? 
 
-Please reach out in case you have any questions or want to talk about research: irene.garces@wti.org
+Please reach out in case you have any questions or want to talk about research: igarces@cita-aragon.es
 
