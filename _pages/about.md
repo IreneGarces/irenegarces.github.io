@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website! I am a postdoctoral researcher in economics at the Centre for Agro-Food Research and Technology (CITA), working under an EU-funded project called [Brightspace](https://brightspace-project.eu/) with supervision from [George Philippidis](https://www.araid.es/es/users/gphilippidis). Awarded a Doctorate in Economics with the highest honors, summa cum laude, from the University of Bern (May 2024) under the supervision of [Joseph Francois](https://www.wti.org/institute/people/432/francois-joseph/) and [Octavio Fernández-Amador](https://www.wti.org/institute/people/429/fernandez-amador-octavio/). 
+Welcome to my website! I am a postdoctoral researcher in economics at the Centre for Agro-Food Research and Technology (CITA), working on the EU-funded [Brightspace](https://brightspace-project.eu/) alongside [George Philippidis](https://www.araid.es/es/users/gphilippidis) and [Ana I. Sanjuán López](https://cita-aragon.es/personal/ana-isabel-sanjuan-lopez/). I earned a Doctorate in Economics with the highest honors, summa cum laude, from the University of Bern (May 2024) under the supervision of [Joseph Francois](https://www.wti.org/institute/people/432/francois-joseph/) and [Octavio Fernández-Amador](https://www.wti.org/institute/people/429/fernandez-amador-octavio/). 
 
 Broadly, my research focuses on the heterogeneous impacts of trade agreements and specific trade policy tools, particularly non-tariff measures.
 
