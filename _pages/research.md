@@ -24,7 +24,7 @@ policies. In this paper, we show that increases in domestic value-added into for
 also as technical nontariff measures. Trade-network structures incentivize regulatory harmonization to avoid harming domestic producers.
 
 ## [Patterns of regulatory differences in international trade: Intensity coverage and structure](../files/Patterns of regulatory heterogeneity.pdf)
-*(with  Dr. Achim Vogt)* 
+*(with Achim Vogt)* 
 
 With falling tariffs, the role of regulatory heterogeneity in international trade has become central in recent debates on regional integration and trade costs.
 However, few studies explicitly take into account the specific nature of the underlying regulatory differences. Thus, we propose distinguishing regulatory 
