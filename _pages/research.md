@@ -65,7 +65,7 @@ The past fifty years have witnessed an upsurge in trade integration which has cr
 
 ## Policy reports
 
-## Deliverable D4.2 (D7) Project Management Plan (2026). BrightSpace Horizon Europe project, GA Nr. 101060075 0
+## Deliverable D4.2 (D7) Project Management Plan (2026). BrightSpace Horizon Europe project, GA Nr. 101060075 
 *(with Balázs, K. & Cechura, L. & Chakrabarti, A. & Coderoni, S. & Disdier, A. & Garcés, I. & Krisztin, T. & Meinhart, B. & Kuhn, T. & Le Gallo, J., & Legras, S. &  Muzzillo, M. & Piet, L. & Podmaniczky, L. & Sanjuán, A.I. & Sckokai, P. & Storm, H. & Varacca, A. & Vedrine, L. )
 
 ## [A sustainability analysis on the social dimension of sustainable development in the context of the possible EFTA-Mercosur free trade agreement (2025)](../files/SIA_Social_EMFTA_CTEIWTI_2025.pdf)
