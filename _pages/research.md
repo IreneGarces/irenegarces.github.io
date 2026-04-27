@@ -54,27 +54,22 @@ This paper received the away for the best research paper presented by a young sc
 ## The EU MRLS on pesticides and EU competitiveness
 *(with Ana I.Sanjuán and George Philippidis)* 
 
-## “Bridging ex-post and ex-ante EU social indicator trends: Anexplorative modelling analysis for SDG4 and SDG5”
+## Bridging ex-post and ex-ante EU social indicator trends: An explorative modelling analysis for SDG4 and SDG5
 *(with George Philippidis and Ana I.Sanjuán)* 
  
 
 ## Trade cost estimates of the EU single market
 *(with Joseph Francois)* 
 
-The past fifty years have witnessed an upsurge in trade integration which has crystallized in the multiplication in the number of economic integration agreements. 
-However, in the last decade, fears of de-globalization and disintegration of current international structures have spurred across the world and particularly impacted 
-the European Union after Brexit. Nowadays, trade agreements go beyond tariff reductions and include also non-tariff and trade facilitation measures. In this context,
-proper quantification exercises of the consequences that a possible European disintegration would have are of utmost importance. We propose departing from a structural
-gravity model to estimate the effects of trade agreements in Europe to include the negative values of these estimated shocks into a general equilibrium model consistent
-with firm heterogeneity à la Melitz to analyze the effects of disintegration on all European and third-countries regarding trade and welfare measures.
+The past fifty years have witnessed an upsurge in trade integration which has crystallized in the multiplication in the number of economic integration agreements. However, in the last decade, fears of de-globalization and disintegration of current international structures have spurred across the world and particularly impacted the European Union after Brexit. Nowadays, trade agreements go beyond tariff reductions and include also non-tariff and trade facilitation measures. In this context, proper quantification exercises of the consequences that a possible European disintegration would have are of utmost importance. We propose departing from a structural gravity model to estimate the effects of trade agreements in Europe to include the negative values of these estimated shocks into a general equilibrium model consistent with firm heterogeneity à la Melitz to analyze the effects of disintegration on all European and third-countries regarding trade and welfare measures.
 
 ## Policy reports
 
 ## Deliverable D4.2 (D7) Project Management Plan (2026). BrightSpace Horizon Europe project, GA Nr. 101060075 0
-*(with Balázs, K. \& Cechura, L. \& Chakrabarti, A. \& Coderoni, S. \& Disdier, A. \& Garcés, I. \& Krisztin, T. \& Meinhart, B. \& Kuhn, T. \& Le Gallo, J., \& Legras, S. \&  Muzzillo, M. \& Piet, L. \& Podmaniczky, L. \& Sanjuán, A.I. \& Sckokai, P. \& Storm, H. \& Varacca, A. \& Vedrine, L. )
+*(with Balázs, K. & Cechura, L. & Chakrabarti, A. & Coderoni, S. & Disdier, A. & Garcés, I. & Krisztin, T. & Meinhart, B. & Kuhn, T. & Le Gallo, J., & Legras, S. &  Muzzillo, M. & Piet, L. & Podmaniczky, L. & Sanjuán, A.I. & Sckokai, P. & Storm, H. & Varacca, A. & Vedrine, L. )
 
-## A sustainability analysis on the social dimension of sustainable development in the context of the possible EFTA-Mercosur free trade agreement (2025). (../files/SIA_Social_EMFTA_CTEIWTI_2025.pdf)
+## [A sustainability analysis on the social dimension of sustainable development in the context of the possible EFTA-Mercosur free trade agreement (2025)](../files/SIA_Social_EMFTA_CTEIWTI_2025.pdf)
 *(With Cedric Dupont, Manfred Elsig, Joseph Francois, Cezar, R., \& Aznar, F. P.)*
 
-## “Deliverable 7.2. BrightSpace Project Report on Toolbox Enhancements for Just Operating Space Indicators: Progress report with focus on income and employment-related indicators (2025).
+## Deliverable 7.2. BrightSpace Project Report on Toolbox Enhancements for Just Operating Space Indicators: Progress report with focus on income and employment-related indicators (2025).
 *(With Michiel van Dijk (WR), Elena Castellari (UCSC), Ninke Feenstra (WU), Irene Garcés (CITA), Esther Gehrke (WU), Marta Kozicka (IIASA), Christoph Krüger (PBL), Marijke Kuiper (WR), Thijs de Lange (WR),  Myrna van Leeuwen (WR), Daniele Moro (UCSC), Marc Müller (WR), George Philippidis (CITA), Hugo Scherer (WR), Inga Schleicher (Thuenen), Maria Schubring (UOXF), Paolo Sckokai (UCSC), Zuzana Smeets-Kristkova (WR), Marco Springmann (UOXF), Viktoriya Sturm (Thuenen), Giulia Tiboldo (UCSC), Ana Sanjuán (CITA), Michael Wogerer (IIASA), Yan Jin (WU), Willem-Jan van Zeist (WR))* 
