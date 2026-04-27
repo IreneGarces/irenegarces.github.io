@@ -35,13 +35,9 @@ at the country- and sector-level. We construct well-established descriptive indi
 ## [Modeling heterogeneous direct and third-country effects of the trade policy network](../files/Heterogeneous direct and third-country effects_master.pdf)
 *(with Octavio Fernández-Amador)* 
 
-This paper presents a structural Melitz-type gravity model with firm heterogeneity featuring heterogeneous trade cost elasticities to estimate the modular 
-effects of trade agreements. We provide a structural underpinning for heterogeneous third-country—trade diversionand reverse diversion—effects.
-The correct estimation strategy when using approximated multilateral resistances in panels is shown. We analyze the components of the indirect effects of agreements,
-and two simulations highlight the quantitative importance of indirect effects. Third-country effects from the network of agreements in place can be economically
-significant. Governments should consider third-country effects when analyzing potential strategic integration scenarios.
+This paper presents a structural Melitz-type gravity model with firm heterogeneity featuring heterogeneous trade cost elasticities to estimate the modular effects of trade agreements. We provide a structural underpinning for heterogeneous third-country—trade diversion and reverse diversion—effects. The correct estimation strategy when using approximated multilateral resistances in panels is shown. We analyze the components of the indirect effects of agreements, and two simulations highlight the quantitative importance of indirect effects. Third-country effects from the network of agreements in place can be economically significant. Governments should consider third-country effects when analyzing potential strategic integration scenarios.
 
-This paper received the away for the best research paper presented by a young scholar at the 24th conference on international economics held at the University of Alcalá (Spain).
+This paper received the award for the best research paper presented by a young scholar at the 24th conference on international economics held at the University of Alcalá (Spain).
 
 ## Working papers 
 
@@ -69,7 +65,7 @@ The past fifty years have witnessed an upsurge in trade integration which has cr
 *(with Balázs, K. & Cechura, L. & Chakrabarti, A. & Coderoni, S. & Disdier, A. & Garcés, I. & Krisztin, T. & Meinhart, B. & Kuhn, T. & Le Gallo, J., & Legras, S. &  Muzzillo, M. & Piet, L. & Podmaniczky, L. & Sanjuán, A.I. & Sckokai, P. & Storm, H. & Varacca, A. & Vedrine, L. )
 
 ## [A sustainability analysis on the social dimension of sustainable development in the context of the possible EFTA-Mercosur free trade agreement (2025)](../files/SIA_Social_EMFTA_CTEIWTI_2025.pdf)
-*(With Cedric Dupont, Manfred Elsig, Joseph Francois, Cezar, R., \& Aznar, F. P.)*
+*(With Cedric Dupont, Manfred Elsig, Joseph Francois, Cezar, R., & Aznar, F. P.)*
 
 ## Deliverable 7.2. BrightSpace Project Report on Toolbox Enhancements for Just Operating Space Indicators: Progress report with focus on income and employment-related indicators (2025).
 *(With Michiel van Dijk (WR), Elena Castellari (UCSC), Ninke Feenstra (WU), Irene Garcés (CITA), Esther Gehrke (WU), Marta Kozicka (IIASA), Christoph Krüger (PBL), Marijke Kuiper (WR), Thijs de Lange (WR),  Myrna van Leeuwen (WR), Daniele Moro (UCSC), Marc Müller (WR), George Philippidis (CITA), Hugo Scherer (WR), Inga Schleicher (Thuenen), Maria Schubring (UOXF), Paolo Sckokai (UCSC), Zuzana Smeets-Kristkova (WR), Marco Springmann (UOXF), Viktoriya Sturm (Thuenen), Giulia Tiboldo (UCSC), Ana Sanjuán (CITA), Michael Wogerer (IIASA), Yan Jin (WU), Willem-Jan van Zeist (WR))* 
