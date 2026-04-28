@@ -15,15 +15,12 @@ author_profile: true
 {% endfor %}
 
 ## Publications 
-## [Modeling heterogeneous direct and third-country effects of the trade policy network](../files/Heterogeneous direct and third-country effects_master.pdf)
-*(with Octavio Fernández-Amador). Review of International Economics, no. 3: 765–782. https://doi.org/10.1111/roie.12797.* 
+## [Modeling heterogeneous direct and third-country effects of the trade policy network](../files/Heterogeneous direct and third-country effects_master.pdf)(with Octavio Fernández-Amador). Review of International Economics, no. 3: 765–782. https://doi.org/10.1111/roie.12797.\\
 This paper received the award for the best research paper presented by a young scholar at the 24th conference on international economics held at the University of Alcalá (Spain).
 
-## [Global value chain integration and non-tariff measures](../files/Global value chain integration and non-tariff measures.pdf)
-*(with  Achim Vogt). Economics letters, volume 235, 111518. https://doi.org/10.1016/j.econlet.2024.111518*
+## [Global value chain integration and non-tariff measures](../files/Global value chain integration and non-tariff measures.pdf) (with  Achim Vogt). Economics letters, volume 235, 111518. https://doi.org/10.1016/j.econlet.2024.111518
 
-## [Patterns of regulatory differences in international trade: Intensity coverage and structure](../files/Patterns of regulatory heterogeneity.pdf)
-*(with Achim Vogt).Review of International Economics, 33(1), 125–165. https://doi.org/10.1111/roie.12736* 
+## [Patterns of regulatory differences in international trade: Intensity coverage and structure](../files/Patterns of regulatory heterogeneity.pdf) (with Achim Vogt).Review of International Economics, 33(1), 125–165. https://doi.org/10.1111/roie.12736* 
 
 ## Working papers 
 
