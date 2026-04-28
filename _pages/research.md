@@ -15,16 +15,23 @@ author_profile: true
 {% endfor %}
 
 ## Publications 
+## [Modeling heterogeneous direct and third-country effects of the trade policy network](../files/Heterogeneous direct and third-country effects_master.pdf)
+*(with Octavio Fernández-Amador). Review of International Economics, no. 3: 765–782. https://doi.org/10.1111/roie.12797.* 
+
+This paper presents a structural Melitz-type gravity model with firm heterogeneity featuring heterogeneous trade cost elasticities to estimate the modular effects of trade agreements. We provide a structural underpinning for heterogeneous third-country—trade diversion and reverse diversion—effects. The correct estimation strategy when using approximated multilateral resistances in panels is shown. We analyze the components of the indirect effects of agreements, and two simulations highlight the quantitative importance of indirect effects. Third-country effects from the network of agreements in place can be economically significant. Governments should consider third-country effects when analyzing potential strategic integration scenarios.
+
+This paper received the award for the best research paper presented by a young scholar at the 24th conference on international economics held at the University of Alcalá (Spain).
+
 
 ## [Global value chain integration and non-tariff measures](../files/Global value chain integration and non-tariff measures.pdf)
-*(with  Achim Vogt)*
+*(with  Achim Vogt). Economics letters, volume 235, 111518. https://doi.org/10.1016/j.econlet.2024.111518*
 
 The organization of modern production into complex, cross-border networks raises the question of whether countries’ value chain linkages determine their trade-related
 policies. In this paper, we show that increases in domestic value-added into foreign final goods lead to decreases in regulatory stringency measured as tariffs but
 also as technical nontariff measures. Trade-network structures incentivize regulatory harmonization to avoid harming domestic producers.
 
 ## [Patterns of regulatory differences in international trade: Intensity coverage and structure](../files/Patterns of regulatory heterogeneity.pdf)
-*(with Achim Vogt)* 
+*(with Achim Vogt).Review of International Economics, 33(1), 125–165. https://doi.org/10.1111/roie.12736* 
 
 With falling tariffs, the role of regulatory heterogeneity in international trade has become central in recent debates on regional integration and trade costs.
 However, few studies explicitly take into account the specific nature of the underlying regulatory differences. Thus, we propose distinguishing regulatory 
@@ -32,12 +39,6 @@ heterogeneity with respect to the intensity, coverage, and structure of regulati
 Enabled by detailed product-level regulatory data based on coded reviews of national legislation, we illustrate the different channels of regulatory heterogeneity
 at the country- and sector-level. We construct well-established descriptive indicators and more recently developed measures of regulatory distance to identify patterns of non-tariff measures via principal component analysis, clustering techniques, and association analysis. The findings motivate separate treatment of the different heterogeneity dimensions in  the assessment of non-tariff measures in international trade. Outputs of the analysis are transferred to a database available at different sectoral aggregations that can be used for example, in gravity-type analysis.
 
-## [Modeling heterogeneous direct and third-country effects of the trade policy network](../files/Heterogeneous direct and third-country effects_master.pdf)
-*(with Octavio Fernández-Amador)* 
-
-This paper presents a structural Melitz-type gravity model with firm heterogeneity featuring heterogeneous trade cost elasticities to estimate the modular effects of trade agreements. We provide a structural underpinning for heterogeneous third-country—trade diversion and reverse diversion—effects. The correct estimation strategy when using approximated multilateral resistances in panels is shown. We analyze the components of the indirect effects of agreements, and two simulations highlight the quantitative importance of indirect effects. Third-country effects from the network of agreements in place can be economically significant. Governments should consider third-country effects when analyzing potential strategic integration scenarios.
-
-This paper received the award for the best research paper presented by a young scholar at the 24th conference on international economics held at the University of Alcalá (Spain).
 
 ## Working papers 
 
