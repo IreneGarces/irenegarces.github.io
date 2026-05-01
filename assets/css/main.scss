@@ -45,39 +45,33 @@ body {
   font-size: 15px !important; /* Adjust this number to make it smaller */
 }
 
-/* Títulos de las secciones principales (Working papers, Policy reports) */
+/* --- SECCIÓN ESPECÍFICA DE PUBLICACIONES --- */
+
+/* Título de la categoría (Working papers / Policy reports) */
 h2 {
-    font-size: 1.5rem;
+    font-size: 1.5rem !important;
+    font-weight: 700;
     color: #333;
-    border-bottom: 2px solid #eee;
-    margin-top: 2rem;
-    padding-bottom: 0.5rem;
-    font-weight: 700;
+    margin-top: 2.5rem !important;
+    margin-bottom: 1rem !important;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 5px;
+    text-transform: none; /* Asegura que no salga todo en mayúsculas si no quieres */
 }
 
-/* Títulos de los artículos/papers individuales */
-/* Si usas h3 para los nombres de los papers, este código los hará lucir como en tu imagen */
+/* Título del Paper (H3) */
 h3 {
-    font-size: 1.15rem; /* Tamaño más pequeño y profesional */
-    font-weight: 700;
-    line-height: 1.3;
-    margin-bottom: 0.2rem; /* Acerca el título a los autores */
-    color: #444;
+    font-size: 1.1rem !important; /* Tamaño reducido para que no sea gigante */
+    font-weight: 700 !important;
+    color: #444 !important;
+    margin-top: 1.5rem !important;
+    margin-bottom: 2px !important; /* Casi nada de espacio abajo para que el autor se pegue */
+    line-height: 1.2 !important;
 }
 
-/* Formato para los autores y detalles debajo del título */
-/* Envuelve los autores en una etiqueta <p> o <small> */
-.paper-authors {
-    font-style: italic;
-    font-size: 0.9rem;
-    color: #666;
-    margin-top: 0;
-    margin-bottom: 1.5rem; /* Espacio antes del siguiente paper */
-}
-
-/* Enlaces dentro de los títulos de papers (por si quieres que sean azules como arriba) */
+/* Enlaces de los títulos (si los títulos son links azules) */
 h3 a {
-    color: #46a2ba; /* El color azulado de tu captura */
+    color: #46a2ba !important;
     text-decoration: none;
 }
 
@@ -85,7 +79,13 @@ h3 a:hover {
     text-decoration: underline;
 }
 
-/* This targets the 'Irene Garcés' name in the sidebar if you want it smaller too */
-.author__name {
-  font-size: 1.1rem !important;
+/* Autores y detalles del paper */
+.paper-authors {
+    font-size: 0.85rem !important;
+    font-style: italic !important;
+    color: #666 !important;
+    margin-top: 0px !important; /* Forzamos que suba hacia el título */
+    margin-bottom: 10px !important;
+    line-height: 1.4;
+    display: block;
 }
