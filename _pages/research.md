@@ -15,29 +15,25 @@ author_profile: true
 {% endfor %}
 
 ## Publications 
-{%### [Modeling heterogeneous direct and third-country effects of the trade policy network](../files/Heterogeneous direct and third-country effects_master.pdf)
-(with Octavio Fernández-Amador). Review of International Economics, no. 3: 765–782. https://doi.org/10.1111/roie.12797.\\
-This paper received the award for the best research paper presented by a young scholar at the 24th conference on international economics held at the University of Alcalá (Spain). %}
-
-### [Modeling heterogeneous direct and third-country effects of the trade policy network](../files/Heterogeneous direct and third-country effects_master.pdf)
-<p class="paper-authors">(with Octavio Fernández-Amador). Review of International Economics, no. 3: 765–782. https://doi.org/10.1111/roie.12797. 
+**[Modeling heterogeneous direct and third-country effects of the trade policy network](../files/Heterogeneous direct and third-country effects_master.pdf)**
+(with Octavio Fernández-Amador). *Review of International Economics*, no. 3: 765–782. https://doi.org/10.1111/roie.12797. 
 This paper received the award for the best research paper presented by a young scholar at the 24th conference on international economics held at the University of Alcalá (Spain).</p>
 
 ### [Global value chain integration and non-tariff measures](../files/GVC_integration_NTMs.pdf)
 <p class="paper-authors">(with Achim Vogt). Economics letters, volume 235, 111518. https://doi.org/10.1016/j.econlet.2024.111518</p>
 
-## [Global value chain integration and non-tariff measures](../files/Global value chain integration and non-tariff measures.pdf) 
+### [Global value chain integration and non-tariff measures](../files/Global value chain integration and non-tariff measures.pdf) 
 (with  Achim Vogt). Economics letters, volume 235, 111518. https://doi.org/10.1016/j.econlet.2024.111518
 
-## [Patterns of regulatory differences in international trade: Intensity coverage and structure](../files/Patterns of regulatory heterogeneity.pdf) 
+### [Patterns of regulatory differences in international trade: Intensity coverage and structure](../files/Patterns of regulatory heterogeneity.pdf) 
 (with Achim Vogt).Review of International Economics, 33(1), 125–165. https://doi.org/10.1111/roie.12736
 
 ## Working papers 
 
-## Market Access Uncertainty and Trade in Services
+### Market Access Uncertainty and Trade in Services
 *(with Joseph Francois & Peter H. Egger & Miriam Manchin)*
 
-## The EU MRLS on pesticides and EU competitiveness
+### The EU MRLS on pesticides and EU competitiveness
 *(with Ana I.Sanjuán and George Philippidis)* 
 
 ## Bridging ex-post and ex-ante EU social indicator trends: An explorative modelling analysis for SDG4 and SDG5
