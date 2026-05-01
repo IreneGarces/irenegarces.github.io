@@ -40,5 +40,18 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+body {
+  font-size: 15px !important; /* Adjust this number to make it smaller */
+}
 
+h1 {
+  font-size: 1.8rem !important; /* Shrinks the main titles */
+}
 
+h2 {
+  font-size: 1.4rem !important; /* Shrinks the subtitles */
+}
+
+h3 {
+  font-size: 1.3rem !important; /* Shrinks the subtitles */
+}
