@@ -11,10 +11,10 @@ author_profile: true
 *Microeconomics* at the MILE (Master of Advanced Studies in International Law and Economics) and TRIAL (Master of Laws -LL.M.- in International Trade and Investment Law) programs at the WTI.
 Principal lecturer, Fall 2023.
 
-*Microeconomics* at the MILE (Master of Advanced Studies in International Law and Economics) and  TRIAL (Master of Laws -LL.M.- in International Trade and Investment Law) programs at the WTI.
+*Microeconomics* at the MILE and  TRIAL programs at the WTI.
 Principal lecturer, Fall 2022.
 
-*Microeconomics* at the MILE (Master of Advanced Studies in International Law and Economics) and  TRIAL (Master of Laws -LL.M.- in International Trade and Investment Law) programs at the WTI.
+*Microeconomics* at the MILE and TRIALprograms at the WTI.
 Lecturer, Fall 2021.
 
 *Econometric Analysis of Trade Policy* at the Summer Academy that is part of the Certification of advanced studies with an specialization on Applied trade policy modelling. Lecturer, June 2022
