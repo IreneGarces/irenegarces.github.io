@@ -45,25 +45,44 @@ body {
   font-size: 15px !important; /* Adjust this number to make it smaller */
 }
 
-h1 {
-  font-size: 1.8rem !important; /* Shrinks the main titles */
-}
-
+/* Títulos de las secciones principales (Working papers, Policy reports) */
 h2 {
-  font-size: 1.4rem !important; /* Shrinks the subtitles */
+    font-size: 1.5rem;
+    color: #333;
+    border-bottom: 2px solid #eee;
+    margin-top: 2rem;
+    padding-bottom: 0.5rem;
+    font-weight: 700;
 }
 
-/* This targets the section headers like 'Publications' and 'Working papers' */
-h1, h2, h3 {
-  font-size: 1.3rem !important; /* Adjust this number to make them smaller or larger */
-  margin-top: 20px !important;
-  margin-bottom: 10px !important;
+/* Títulos de los artículos/papers individuales */
+/* Si usas h3 para los nombres de los papers, este código los hará lucir como en tu imagen */
+h3 {
+    font-size: 1.15rem; /* Tamaño más pequeño y profesional */
+    font-weight: 700;
+    line-height: 1.3;
+    margin-bottom: 0.2rem; /* Acerca el título a los autores */
+    color: #444;
 }
 
-/* This targets the blue clickable titles of your papers */
-h2 a, h3 a, .archive__item-title a {
-  font-size: 1.1rem !important; /* This will make the paper titles smaller */
-  line-height: 1.2 !important;
+/* Formato para los autores y detalles debajo del título */
+/* Envuelve los autores en una etiqueta <p> o <small> */
+.paper-authors {
+    font-style: italic;
+    font-size: 0.9rem;
+    color: #666;
+    margin-top: 0;
+    margin-bottom: 1.5rem; /* Espacio antes del siguiente paper */
+}
+
+/* Enlaces dentro de los títulos de papers (por si quieres que sean azules como arriba) */
+h3 a {
+    color: #46a2ba; /* El color azulado de tu captura */
+    text-decoration: none;
+}
+
+h3 a:hover {
+    text-decoration: underline;
 }
 
 /* This targets the 'Irene Garcés' name in the sidebar if you want it smaller too */
