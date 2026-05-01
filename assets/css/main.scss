@@ -52,3 +52,21 @@ h1 {
 h2 {
   font-size: 1.4rem !important; /* Shrinks the subtitles */
 }
+
+/* This targets the section headers like 'Publications' and 'Working papers' */
+h1, h2, h3 {
+  font-size: 1.3rem !important; /* Adjust this number to make them smaller or larger */
+  margin-top: 20px !important;
+  margin-bottom: 10px !important;
+}
+
+/* This targets the blue clickable titles of your papers */
+h2 a, h3 a, .archive__item-title a {
+  font-size: 1.1rem !important; /* This will make the paper titles smaller */
+  line-height: 1.2 !important;
+}
+
+/* This targets the 'Irene Garcés' name in the sidebar if you want it smaller too */
+.author__name {
+  font-size: 1.1rem !important;
+}
