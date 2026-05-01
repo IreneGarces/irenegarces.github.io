@@ -28,16 +28,16 @@ This paper received the award for the best research paper presented by a young s
 ## Working papers 
 
 **Market Access Uncertainty and Trade in Services**
-*(with Joseph Francois & Peter H. Egger & Miriam Manchin)*
+*(with FrancoiS, J., Egger, P. , Manchin, M.)*
 
 **The EU MRLS on pesticides and EU competitiveness**
-*(with Ana I.Sanjuán and George Philippidis)* 
+*(with Sanjuán, A. I., Philippidis, G.)* 
 
 **Bridging ex-post and ex-ante EU social indicator trends: An explorative modelling analysis for SDG4 and SDG5**
-*(with George Philippidis and Ana I.Sanjuán). Revise and Resubmit Humanities and social science communications.* 
+*(with  Philippidis, G., Sanjuán, A. I.). Revise and Resubmit Humanities and social science communications.* 
  
 **Trade cost estimates of the EU single market**
-*(with Joseph Francois)* 
+*(with  Francois, J.)* 
 
 ## Policy reports
 
