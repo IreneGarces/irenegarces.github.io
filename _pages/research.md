@@ -15,11 +15,11 @@ author_profile: true
 {% endfor %}
 
 ## Publications 
-**[Modeling heterogeneous direct and third-country effects of the trade policy network](../files/Heterogeneous direct and third-country effects_master.pdf)**
+**[Modeling heterogeneous direct and third-country effects of the trade policy network](../files/Heterogeneous direct and third-country effects_master.pdf)**\\
 (with Octavio Fernández-Amador). *Review of International Economics*, no. 3: 765–782. \\
 This paper received the award for the best research paper presented by a young scholar at the 24th conference on international economics held at the University of Alcalá (Spain).</p>
 
-**[Global value chain integration and non-tariff measures](../files/GVC_integration_NTMs.pdf)**
+**[Global value chain integration and non-tariff measures](../files/GVC_integration_NTMs.pdf)**\\
 (with Achim Vogt). Economics letters, volume 235, 111518.
 
 **[Patterns of regulatory differences in international trade: Intensity coverage and structure](../files/Patterns of regulatory heterogeneity.pdf)** 
