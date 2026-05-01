@@ -19,11 +19,11 @@ author_profile: true
 (with Fernández-Amador, O.). *Review of International Economics*, no. 3: 765–782, February, 2025. \\
 This paper received the award for the best research paper presented by a young scholar at the 24th conference on international economics held at the University of Alcalá (Spain).
 
-**[Global value chain integration and non-tariff measures](../files/Global value chain integration and non-tariff measures.pdf)**\\
-(with Vogt, A.). Economics letters, volume 235, 111518, Febrero, 2024.
+**[Global value chain integration and non-tariff measures](../files/Global value chain integration and non-tariff measures.pdf)**
+(with Vogt, A.). *Economics letters*, volume 235, 111518, Febrero, 2024.
 
 **[Patterns of regulatory differences in international trade: Intensity coverage and structure](../files/Patterns of regulatory heterogeneity.pdf)** 
-(with Vogt, A.). Review of International Economics, 33(1), 125–165,January, 2024.
+(with Vogt, A.). *Review of International Economics*, 33(1), 125–165, January, 2024.
 
 ## Working papers 
 
