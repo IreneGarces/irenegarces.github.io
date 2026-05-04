@@ -28,7 +28,7 @@ This paper received the award for the best research paper presented by a young s
 ## Working papers 
 
 **Market Access Uncertainty and Trade in Services**
-*(with FrancoiS, J., Egger, P. , Manchin, M.)*
+*(with Francois, J., Egger, P. , Manchin, M.)*
 
 **The EU MRLS on pesticides and EU competitiveness**
 *(with Sanjuán, A. I., Philippidis, G.)* 
