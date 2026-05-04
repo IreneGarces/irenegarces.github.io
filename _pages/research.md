@@ -34,7 +34,7 @@ This paper received the award for the best research paper presented by a young s
 *(with Sanjuán, A. I., Philippidis, G.)* 
 
 **Bridging ex-post and ex-ante EU social indicator trends: An explorative modelling analysis for SDG4 and SDG5**
-*(with  Philippidis, G., Sanjuán, A. I.). Revise and Resubmit Humanities and social science communications.* 
+*(with  Philippidis, G., Sanjuán, A. I.). Revise and Resubmit, Humanities and social science communications.* 
  
 **Trade cost estimates of the EU single market**
 *(with  Francois, J.)* 
