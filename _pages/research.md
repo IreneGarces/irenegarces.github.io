@@ -35,8 +35,9 @@ This paper received the award for the best research paper presented by a young s
 *(with Sanjuán, A. I., Philippidis, G.)* 
 
 **Bridging ex-post and ex-ante EU social indicator trends: An explorative modelling analysis for SDG4 and SDG5**
-*(with  Philippidis, G., Sanjuán, A. I.). Revise and Resubmit, Humanities and social science communications.* 
- 
+*(with  Philippidis, G., Sanjuán, A. I.). Revise and Resubmit, Humanities and social science communications.* \\
+Replication data: Garcés, I., Philippidis, G., Sanjuán, A. I., \& Xavier Álvarez, R. (2026). Bridging ex-post and ex-ante EU social indicator trends: An explorative modelling analysis for SDG4 and SDG5 [Data set]. BrightSpace Horizon Europe project GA Nr. 101060075. https://doi.org/10.5281/zenodo.18630282
+
 **Trade cost estimates of the EU single market**
 *(with  Francois, J.)* 
 
