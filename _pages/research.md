@@ -15,6 +15,10 @@ author_profile: true
 {% endfor %}
 
 ## Publications 
+**[Bridging ex-post and ex-ante EU social indicator trends: An explorative modelling analysis for SDG4 and SDG5](../files/Bridging ex-post and ex-ante EU social indicator.pdf)** **
+*(with  Philippidis, G., Sanjuán, A. I. \& Xavier Álvarez, R.). Humanities and social science communications.* \\
+Replication data: Garcés, I., Philippidis, G., Sanjuán, A. I., \& Xavier Álvarez, R. (2026). Bridging ex-post and ex-ante EU social indicator trends: An explorative modelling analysis for SDG4 and SDG5 [Data set]. BrightSpace Horizon Europe project GA Nr. 101060075. https://doi.org/10.5281/zenodo.18630282
+
 **[Modeling heterogeneous direct and third-country effects of the trade policy network](../files/Heterogeneous direct and third-country effects_master.pdf)**\\
 (with Fernández-Amador, O.). *Review of International Economics*, no. 3: 765–782, February, 2025. \\
 This paper received the award for the best research paper presented by a young scholar at the 24th conference on international economics held at the University of Alcalá (Spain).
@@ -26,10 +30,6 @@ This paper received the award for the best research paper presented by a young s
 (with Vogt, A.). *Review of International Economics*, 33(1), 125–165, January, 2024. \\
  Replication data for: "Patterns of regulatory heterogeneity in international trade: Intensity, coverage and structure", https://doi.org/10.7910/DVN/YHIA7Q, Harvard Dataverse, V2,
  
-**[Bridging ex-post and ex-ante EU social indicator trends: An explorative modelling analysis for SDG4 and SDG5](../files/Bridging ex-post and ex-ante EU social indicator.pdf)** **
-*(with  Philippidis, G., Sanjuán, A. I. \& Xavier Álvarez, R.). Humanities and social science communications.* \\
-Replication data: Garcés, I., Philippidis, G., Sanjuán, A. I., \& Xavier Álvarez, R. (2026). Bridging ex-post and ex-ante EU social indicator trends: An explorative modelling analysis for SDG4 and SDG5 [Data set]. BrightSpace Horizon Europe project GA Nr. 101060075. https://doi.org/10.5281/zenodo.18630282
-
 ## Working papers 
 
 **Market Access Uncertainty and Trade in Services**
@@ -37,8 +37,6 @@ Replication data: Garcés, I., Philippidis, G., Sanjuán, A. I., \& Xavier Álva
 
 **The EU MRLS on pesticides and EU competitiveness**
 *(with Sanjuán, A. I., Philippidis, G.)* 
-
-
 
 **Trade cost estimates of the EU single market**
 *(with  Francois, J.)* 
