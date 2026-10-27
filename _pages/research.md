@@ -26,8 +26,8 @@ This paper received the award for the best research paper presented by a young s
 (with Vogt, A.). *Review of International Economics*, 33(1), 125–165, January, 2024. \\
  Replication data for: "Patterns of regulatory heterogeneity in international trade: Intensity, coverage and structure", https://doi.org/10.7910/DVN/YHIA7Q, Harvard Dataverse, V2,
  
-**Bridging ex-post and ex-ante EU social indicator trends: An explorative modelling analysis for SDG4 and SDG5**
-*(with  Philippidis, G., Sanjuán, A. I.). Revise and Resubmit, Humanities and social science communications.* \\
+**[Bridging ex-post and ex-ante EU social indicator trends: An explorative modelling analysis for SDG4 and SDG5](../files/Bridging ex-post and ex-ante EU social indicator.pdf)** **
+*(with  Philippidis, G., Sanjuán, A. I. \& Xavier Álvarez, R.). Humanities and social science communications.* \\
 Replication data: Garcés, I., Philippidis, G., Sanjuán, A. I., \& Xavier Álvarez, R. (2026). Bridging ex-post and ex-ante EU social indicator trends: An explorative modelling analysis for SDG4 and SDG5 [Data set]. BrightSpace Horizon Europe project GA Nr. 101060075. https://doi.org/10.5281/zenodo.18630282
 
 ## Working papers 
