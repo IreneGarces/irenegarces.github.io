@@ -35,8 +35,8 @@ This paper received the award for the best research paper presented by a young s
 **Market Access Uncertainty and Trade in Services**
 *(with Francois, J., Egger, P. , Manchin, M.)*
 
-**The EU MRLS on pesticides and EU competitiveness**
-*(with Sanjuán, A. I., Philippidis, G.)* 
+**The EU MRLS on pesticides and EU competitiveness** https://doi.org/10.5281/zenodo.19730121.
+*(with Sanjuán, A. I., Philippidis, G, 2026)* Discussion paper Brightspace Horizon Europe project GA Nr. 101060075. https://doi.org/10.5281/zenodo.19730121
 
 **Trade cost estimates of the EU single market**
 *(with  Francois, J.)* 
