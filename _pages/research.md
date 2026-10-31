@@ -43,7 +43,7 @@ This paper received the award for the best research paper presented by a young s
 
 ## Policy reports
 
-**Deliverable D4.2 (D7) Project Management Plan (2026). BrightSpace Horizon Europe project, GA Nr. 101060075** 
+**Deliverable D4.2 (D7) Final report on the impact of agricultural, climate, Environmental and tradepolicies. (2026). BrightSpace Horizon Europe project, GA Nr. 101060075** 
 (with Balázs, K. & Cechura, L. & Chakrabarti, A. & Coderoni, S. & Disdier, A. & Garcés, I. & Krisztin, T. & Meinhart, B. & Kuhn, T. & Le Gallo, J., & Legras, S. &  Muzzillo, M. & Piet, L. & Podmaniczky, L. & Sanjuán, A.I. & Sckokai, P. & Storm, H. & Varacca, A. & Vedrine, L.)
 
  
