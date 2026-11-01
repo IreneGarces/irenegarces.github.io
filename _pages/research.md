@@ -16,7 +16,7 @@ author_profile: true
 
 ## Publications 
 **[Bridging ex-post and ex-ante EU social indicator trends: An explorative modelling analysis for SDG4 and SDG5](../files/Bridging ex-post and ex-ante EU social indicator.pdf)**
-(with  Philippidis, G., Sanjuán, A. I. \& Xavier Álvarez, R.). *Humanities and social science communications.* (2026). https://doi.org/10.1057/s41599-026-08097-9\\
+(with  Philippidis, G., Sanjuán, A. I. and Xavier Álvarez, R.). *Humanities and social science communications.* (2026). https://doi.org/10.1057/s41599-026-08097-9\\
 Replication data: Garcés, I., Philippidis, G., Sanjuán, A. I., \& Xavier Álvarez, R. (2026). Bridging ex-post and ex-ante EU social indicator trends: An explorative modelling analysis for SDG4 and SDG5 [Data set]. BrightSpace Horizon Europe project GA Nr. 101060075. https://doi.org/10.5281/zenodo.18630282
 
 **[Modeling heterogeneous direct and third-country effects of the trade policy network](../files/Heterogeneous direct and third-country effects_master.pdf)**\\
@@ -33,10 +33,10 @@ This paper received the award for the best research paper presented by a young s
 ## Working papers 
 
 **Market Access Uncertainty and Trade in Services**
-*(with Francois, J., Egger, P. , Manchin, M.)*
+*(with Francois, J., Egger, P. and Manchin, M.)*
 
 **The EU MRLS on pesticides and EU competitiveness** https://doi.org/10.5281/zenodo.19730121.
-*(with Sanjuán, A. I., Philippidis, G, 2026)* Discussion paper Brightspace Horizon Europe project GA Nr. 101060075. https://doi.org/10.5281/zenodo.19730121
+*(with Sanjuán, A. I. and Philippidis, G, 2026)* Discussion paper Brightspace Horizon Europe project GA Nr. 101060075. https://doi.org/10.5281/zenodo.19730121
 
 **Trade cost estimates of the EU single market**
 *(with  Francois, J.)* 
